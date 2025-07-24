@@ -1,0 +1,32 @@
+# 🚫 Sensitive credentials
+.env
+
+# 📊 Raw data files
+*.xlsx
+*.csv
+*.db
+
+# 🗑️ Python cache and temp files
+__pycache__/
+*.pyc
+*.log
+
+# 🧪 Test output
+*.txt
+*.out
+
+# 📷 Visual artifacts
+visuals/
+reports/
+
+# 🧱 Docker artifacts (optional)
+*.pid
+*.sock
+
+# 🧪 Unit test cache
+*.pytest_cache/
+
+# 🛠 IDE/project settings (optional)
+.vscode/
+.idea/
+*.code-workspace
