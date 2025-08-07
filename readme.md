@@ -1,3 +1,17 @@
+⚠️ Access Notice
+
+This repository was developed as part of a professional evaluation.  
+It is not to be used, distributed, or referenced without explicit written consent.  
+Uncompensated use of this work constitutes a breach of professional ethics.
+
+Access has been temporarily re-enabled for review purposes only.  
+All collaborators must accept their invitations to regain visibility.
+
+I expect to see traffic on this repository by end of day Friday.  
+If there is no meaningful engagement, the repository will be returned to private status on Monday.
+
+📄 See [LICENSE.md](./LICENSE.md) for full usage terms and restrictions.
+
 # HRIS Data Pipeline — MrBeast Take-Home Assignment
 Built as part of a senior-level take-home assignment. Demonstrates reliable HRIS data ingestion, transformation, API exposure, and visualization.
 
@@ -296,8 +310,9 @@ EMAIL_ADDRESS=your_email@example.com
 EMAIL_PASSWORD=your_app_password
 RECIPIENT=receiver@example.com
 
-## License
-MIT License. See LICENSE.
+## License  
+This project is governed by a custom license. It is not open source and is not licensed under the MIT License.  
+See [LICENSE.md](./LICENSE.md) for full usage terms and restrictions.
 
 ---
 
